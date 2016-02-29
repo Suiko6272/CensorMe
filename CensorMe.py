@@ -7,6 +7,8 @@
     #   By Suiko6272    #
     #####################
 
+    #Nick was here
+
 #Returns (str)censoredText
 def censorDocument(OUTPUT=1, docFileName="secretdoc.txt", keyFileName="keys.txt"):
     import sys, re, string
