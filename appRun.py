@@ -12,3 +12,6 @@ if not censoredText == None:
         out_file.write(censoredText)
 else:
     print("Error: No text returned")    #Should not occur
+
+#weeeeeeeeeeeeee fuckytou]
+
